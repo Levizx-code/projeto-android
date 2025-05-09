@@ -4,7 +4,7 @@
 
 @font-face {
     font-family:'Android' ;
-    src: url(/pacote-projeto-d010/fontes/idroid.otf);
+    src: url(pacote-projeto-d010/fontes/idroid.otf);
     font-weight: normal;
 }
 :root{
@@ -36,7 +36,7 @@ header{
 }
 header h1{
     color: white;
-    font-family: var(--fonte-padrao);
+    font-family: var(--font-destaque);
     font-size: 3em;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.267);
     font-weight: normal;
